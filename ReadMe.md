@@ -1,4 +1,4 @@
-<img src="Blue.png" alt=logo>
+<img src="https://cdn.discordapp.com/attachments/866899017526149160/867041965460029450/unknown.png" alt=logo>
 
 # Blue Bot Discord Bot;
 - A powerfull `Server Manager Bot`
